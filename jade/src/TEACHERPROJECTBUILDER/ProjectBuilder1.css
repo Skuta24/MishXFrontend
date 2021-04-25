@@ -1,0 +1,25 @@
+.ProjectMain {
+    max-width: 1450px;
+    background-color: #41a4ce;
+    height: 80vw;
+  }
+  
+  h1,
+  h2 {
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 800;
+    font-family: "Nunito";
+  }
+  
+  .progressHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    font-size: 0.8rem;
+  }
+  
+  .fileExport {
+    width: 22px;
+    margin-right: 5px;
+}

@@ -1,0 +1,175 @@
+.Tele1 {
+    margin: 0px;
+    width:100vw;
+    max-height:30vw;
+    position: absolute;
+    background-color: transparent;
+    z-index: -1px;
+}
+.Tv1 {
+    width:35vw;
+    height: 25vw;
+    float: right;
+    position: relative;
+    top:-170px;
+    left: -120px;
+}
+h2 {
+  font-family: 'Nunito';
+  position: absolute;
+  left: 150px;
+  top: 10px;
+  color: #767676;
+  font-size: 25px;
+}
+p {
+  font-family: 'Nunito';
+  font-weight: 200;
+  width: 400px;
+  position: relative;
+  left: 150px;
+  top: 60px;
+  font-size: 15px;
+  color: #767676;
+}
+h4 {
+  font-size: 20px;
+  color: #767676;
+  font-family: "Nunito";
+  position: relative;
+  right: -150px;
+  top: 50px;
+}
+
+.Bluebox1 {
+    width: 100px;
+    height: 100px;
+    background-color: #2cc0fada;
+    border-color: #2cc0fada;
+    border: none;
+    border-radius: 8px;
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+.Bluebox2 {
+  width: 100px;
+  height: 100px;
+  background-color: #2cc0fada;
+  border-color: #2cc0fada;
+  border: none;
+  border-radius: 8px;
+  position: relative;
+  right: -260px;
+  top: -70px;
+}
+.Bluebox3 {
+  width: 100px;
+  height: 100px;
+  background-color: #2cc0fada;
+  border-color: #2cc0fada;
+  border: none;
+  border-radius: 8px;
+  position: relative;
+  right: -370px;
+  top: -170px;
+}
+.Bluebox4 {
+  width: 100px;
+  height: 100px;
+  background-color: #2cc0fada;
+  border-color: #2cc0fada;
+  border: none;
+  border-radius: 8px;
+  position: relative;
+  right: -480px;
+  top: -270px;
+}
+
+.Frame {
+    position:relative;
+    width: 40px;
+    height:40px;
+    top: 10px;
+    right: -30px;
+  }
+  .Frame1 {
+    color: white;
+    position: relative;
+    top: 0px;
+    right: -20px;
+  }
+  .Joystick {
+    width:50px;
+    height:50px;
+    position:relative;
+    top: 10px;
+    right: -25px;
+  }
+  .Joystick1 {
+    color: white;
+    position: relative;
+    top: -10px;
+    right: -30px;
+  }
+  .Chatbot {
+    width:45px;
+    height:45px;
+    position:relative;
+    top: 10px;
+    right: -25px;
+  }
+  .Chatbot1 {
+    color: white;
+    position: relative;
+    top: -5px;
+    right: -22.5px;
+  }
+  .AR {
+    width:40px;
+    height:40px;
+    position:relative;
+    top: 10px;
+    right: -25px;
+  }
+  .AR1 {
+    color: white;
+    position: relative;
+    text-align: center;
+  }
+  .Ani {
+    position: relative;
+    border: 2px;
+    padding: 0px;
+    background-color: white;
+    list-style-type: circle;
+    font-size:30px;
+    fill: grey;
+  }
+  
+  .Games2 {
+    position: relative;
+    border: 2px;
+    padding: 0px;
+    background-color: white;
+    list-style-type: circle;
+    font-size: 30px;
+  }
+  
+  .Chatbots2 {
+    position: relative;
+    list-style-type: circle;
+    border: 2px;
+    padding: 0px;
+    background-color: white;
+    fill: darkgrey;
+    font-size:30px;
+  }
+  .AR2 {
+    position: relative;
+    border: 2px;
+    padding: 0px;
+    background-color: transparent;
+    list-style-type: circle;
+    font-size:30px;
+  }

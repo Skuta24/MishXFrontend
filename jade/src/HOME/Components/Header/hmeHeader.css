@@ -1,0 +1,70 @@
+.TopNavBar {
+    width: 1450px;
+    height:40px;
+    position: relative;
+    background-color: #43C0F6;
+    margin: 0px;
+  }
+  .Logo {
+    width: 150px;
+    height: 50px;
+    position:relative;
+    left: 150px;
+    top: 2px;
+    margin: 0px;
+  }
+  .NZFlag {
+    margin: 0px;
+    width: 15px;
+    height: 7px;
+    float: right;
+    position: relative;
+    top: -75px;
+    left: -370px;
+  }
+  .MaoriFlag {
+    width: 15px;
+    height: 7px;
+    float: right;
+    position: relative;
+    top: -75px;
+    left: -335px;
+    margin: 0px;
+  }
+  .Lang {
+    font-size: 8px;
+    color: white;
+    font-family: 'Nunito';
+    position: relative;
+    top: -58px;
+    left: 1040px;
+    z-index: 1;
+  }
+
+  .LoginPic {
+    width: 15px;
+    height: 15px;
+   margin:0px;
+   position: relative;
+   top: -62px;
+   float: right;
+   left: -405px;
+  }
+  
+  button {
+    font-family: 'Nunito';
+    font-weight: 900;
+    color: white;
+    font-style: bold;
+    font-size: 9px;
+    padding: 0px;
+    border:none;
+    background: transparent;
+    margin: 0px 25px 0px 0px;
+    cursor: pointer;
+    text-align: center;
+    width: 100px;
+    position: relative;
+    top: -20px;
+    right: -310px;
+  }

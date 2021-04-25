@@ -1,0 +1,94 @@
+.BlueboxLast {
+    width: 100%;
+    height: 350px;
+    background-color: #B2E4FA;
+    position: relative;
+    top: -50px;
+  }
+  .Last1 {
+    color: #767676;
+      font-family: 'Nunito';
+      position: relative;
+      left: 150px;
+      top: 60px;
+  }
+  .Last2 {
+      color: #767676;
+    font-family: 'Nunito';
+    position: relative;
+    left: 290px;
+    bottom: 65px;
+  }
+  .Last3 {
+    color: #767676;
+    font-family: 'Nunito';
+    position: relative;
+    left: 430px;
+    top: -265px;
+  }
+  .Last4 {
+    color: #767676;
+    font-family: 'Nunito';
+    position: relative;
+    left: 580px;
+    bottom: 390px;
+  }
+  .Last5 {
+    color: #767676;
+    font-family: 'Nunito';
+    position: relative;
+    left: 750px;
+    bottom:485px;
+  }
+  .pLast {
+        margin: 0px;
+      color: #767676;
+      top: -480px;
+      left: 750px;
+      z-index: 1; 
+      width: 270px;
+      font-size: 12px;
+  }
+  .email {
+      position: relative;
+      font-family: 'Nunito';
+      top: -485px;
+      left: 750px;
+  }
+  .mobNum {
+    position: relative;
+    font-family: 'Nunito';
+    top: -490px;
+    left: 747px;
+    margin: 0px;
+  }
+  .Company1 {
+      position: relative;
+      top: 10px;
+      margin: 0px;
+      font-size: 9px;
+  }
+  p {
+      font-size: 12px;
+  }
+  .Company2 {
+    position: relative;
+    top: -115px;
+    left: 140px;
+    margin: 0px;
+    font-size: 9px;
+}
+.Company3 {
+    position: relative;
+    top: -315px;
+    left: 280px;
+    margin: 0px;
+    font-size: 11px;
+}
+.Company4 {
+    position: relative;
+    top: -440px;
+    left: 430px;
+    margin: 0px;
+    font-size: 9px;
+}
