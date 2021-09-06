@@ -14,7 +14,7 @@ function HOME  () {
         <Modal1 />
         <Baby />
         <Tele1 />
-        <HmeBody />
+        {/* <HmeBody /> */}
         <HmeFooter />
         {/*All pages called above are for the homepage*/}     
     </div>
